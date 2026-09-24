@@ -1,4 +1,4 @@
-# 🛡️ CyberSec Port Scanner
+# 🛡️ Final Year Project-CyberSec Port Scanner
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![PyQt5](https://img.shields.io/badge/PyQt5-GUI-green?logo=qt)
